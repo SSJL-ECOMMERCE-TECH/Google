@@ -1,2 +1,3 @@
+deployment scripts usually we will written using shell script...
 devopment deployment going on
 please dont disturb
